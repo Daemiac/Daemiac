@@ -19,16 +19,19 @@ Databases:
 Well, not so much to show in here :( (YET)
 
 # Projects
-
+<h4>List of my projects in chronological order</h4>
 <details>
-    <h4>List of my projects in chronological order</h4>
+    [I'm a relative reference to a repository file](https://github.com/Daemiac/HTML_Gallery_Generator)
 </details>
-
-<summary>GitHub details:</summary>
-<p>
+<!---
+<h4>GitHub details:</h4>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Daemiac&count_private=true&show_icons=true?&theme=tokyonight&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-</p>
+--->
+---
 
+<p align="center">
+    <img width="380" height="200" src="https://github.com/Daemiac/Daemiac/blob/main/gandalf.gif">
+</p>
 <!---
 Daemiac/Daemiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
