@@ -8,10 +8,17 @@ Greetings! If you're here because you want to know something about me and my pro
 - 💞️ I’m looking to collaborate on projects that can automate make people lives easier
 - 🌟 Fun fact: my github nickname is an anagram of my last name
 
+## My projects
+<h4>List of my projects in chronological order from most recent:</h4>
+
+- 🌔 [Reminder]
+- 🌓 [Dreamwalker] - four legged robot control system
+- 🌒 [HTML Gallery Generator]
+
 ## Skills and tools
 
 Programming languages:
-- Python
+- Python (main language)
 - C++
 
 Frameworks:
@@ -29,13 +36,6 @@ Databases:
 Tools:
 - GIT
 - Github
-
-## My projects
-<h4>List of my projects in chronological order from most recent:</h4>
-
-- 🌔 [Reminder]
-- 🌓 [Dreamwalker] - four legged robot control system
-- 🌒 [HTML Gallery Generator]
 
 ---
 
