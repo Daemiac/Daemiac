@@ -29,7 +29,6 @@ Databases:
 Tools:
 - GIT
 - Github
-</br>
 
 ## My projects
 <h4>List of my projects in chronological order from most recent:</h4>
