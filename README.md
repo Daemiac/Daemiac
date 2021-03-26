@@ -1,8 +1,8 @@
 ## Hello world!
 
-Greetings! If you're here because you want to know something about me and my programming creations then you're in the correct place.
+Greetings! If you want to know something about me and my programming creations then you're in the correct place.
 
-- 👋 Hi, I’m Piotr Adamiec and my GitHub name is @Daemiac
+- 👋 Hi, I’m Piotr and my GitHub name is @Daemiac
 - 👀 I’m interested in creating web and desktop apps, automation and robotics
 - 🌱 I’m currently learning Django and PostgreSQL with a little touch of PyQT, Robot Operating System and Arduino
 - 💞️ I’m looking to collaborate on projects that can automate make people lives easier
