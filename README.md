@@ -5,7 +5,7 @@ Greetings! If you want to know something about me and my programming creations t
 - 👋 Hi, I’m Piotr and my GitHub name is @Daemiac
 - 👀 I’m interested in creating web and desktop apps, automation and robotics
 - 🌱 I’m currently learning Django and PostgreSQL with a little touch of PyQT, Robot Operating System and Arduino
-- 💞️ I’m looking to collaborate on projects that can automate make people lives easier
+- 💞️ I’m looking to collaborate on projects that can make people lives easier
 - 🌟 Fun fact: my github nickname is an anagram of my last name
 
 ## My projects
