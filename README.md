@@ -11,9 +11,9 @@ Greetings! If you want to know something about me and my programming creations t
 ## My projects
 <h4>List of my projects in chronological order from most recent:</h4>
 
-- 🌔 [Reminder]
-- 🌓 [Dreamwalker] - four legged robot control system
-- 🌒 [HTML Gallery Generator]
+- 🌔 [Reminder] - my own organiser app developed with use of PyQt5 library. Main goal was to try out Model-View-Controller design pattern
+- 🌓 [Dreamwalker] - my Master's degree final project which included design, development and simulation of four legged walking robot.
+- 🌒 [HTML Gallery Generator] - simple Python desktop app I developed in order to shorten and automate creation of robot assembly instructions.
 
 ## Skills and tools
 
