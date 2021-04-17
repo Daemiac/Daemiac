@@ -15,27 +15,34 @@ Greetings! If you want to know something about me and my programming creations t
 - 🌓 [Dreamwalker] - my Master's degree final project which included design, development and simulation of four legged walking robot.
 - 🌒 [HTML Gallery Generator] - simple Python desktop app I developed in order to shorten and automate creation of robot assembly instructions.
 
-## Skills and tools
+## Technologies and Tools
+Operating systems:  
+![](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=E95420)
 
-Programming languages:
-- Python (main language)
-- C++
+Programming languages:  
+![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 
-Frameworks:
-- Django
-- Bootstrap
+Web:<br>
+![](https://img.shields.io/badge/-Django-informational?style=flat-square&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7952B3)
 
-Web:
-- HTML
-- CSS
+Databases:<br>
+![](https://img.shields.io/badge/-SQLite-informational?style=flat-square&logo=sqlite&logoColor=white&color=003B57)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=336791)
 
-Databases:
-- SQL
-- PostgreSQL
+Platforms:<br>
+![](https://img.shields.io/badge/-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979D)
+![](https://img.shields.io/badge/-ROS-informational?style=flat-square&logo=ros&logoColor=white&color=22314E)
 
-Tools:
-- GIT
-- Github
+Tools:<br>
+![](https://img.shields.io/badge/-Git-informational?style=flat-square&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/-Pycharm-informational?style=flat-square&logo=pycharm&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Atom-informational?style=flat-square&logo=atom&logoColor=white&color=66595C)
 
 ---
 
