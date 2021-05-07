@@ -1,21 +1,16 @@
-## Hello world!
+## 👋 Hello world!
 
-Greetings! If you want to know something about me and my programming creations then you're in the correct place.
+Greetings! My name is Piotr and I'm a big enthusiast of reducing amount of dull and repetetive work through automation. Therefore my interests include robotics and development of software solutions which can be used to ease and organise human lives. My favourite weapon in a war against boredom and monotony is Python programming language. 
 
-- 👋 Hi, I’m Piotr and my GitHub name is @Daemiac
-- 👀 I’m interested in creating web and desktop apps, automation and robotics
-- 🌱 I’m currently learning Django and PostgreSQL with a little touch of PyQT, Robot Operating System and Arduino
-- 💞️ I’m looking to collaborate on projects that can make people lives easier
-- 🌟 Fun fact: my github nickname is an anagram of my last name
-
-## My projects
+## 💡 My projects
 <h4>List of my projects in chronological order from most recent:</h4>
+🌔 [Reminder] - my own organiser app developed with use of PyQt5 library and SQLite database.
+<br><br>
+🌓 [Dreamwalker] - my Master's degree final project which included design, development and simulation of four legged walking robot.
+<br><br>
+🌒 [HTML Gallery Generator] - simple Python desktop app developed with Tkinter library responsible for shortening creation of Lego robot assembly instructions.
 
-- 🌔 [Reminder] - my own organiser app developed with use of PyQt5 library. Main goal was to try out Model-View-Controller design pattern
-- 🌓 [Dreamwalker] - my Master's degree final project which included design, development and simulation of four legged walking robot.
-- 🌒 [HTML Gallery Generator] - simple Python desktop app I developed in order to shorten and automate creation of robot assembly instructions.
-
-## Technologies and Tools
+## 🛠️ Technologies and Tools
 Operating systems:  
 ![](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=E95420)
