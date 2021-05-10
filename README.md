@@ -4,9 +4,9 @@ Greetings! My name is Piotr and I'm a big enthusiast of reducing amount of dull 
 
 ## 💡 My projects
 **List of my projects in chronological order from most recent:**<br><br>
-🌔 [Reminder] - my own organiser app developed with use of pyQt5 library and SQLite database;<br>
+🌔 [Reminder] - my own organiser app developed with use of PyQt5 library and SQLite database;<br>
 🌓 [Dreamwalker] - my Master's degree final project which included design, software development and simulation of four legged walking robot;<br>
-🌒 [HTML Gallery Generator] - simple Python desktop app developed with Tkinter library, responsible for shirtening creation of Lego robot assembly instructions;
+🌒 [HTML Gallery Generator] - simple Python desktop app developed with Tkinter library, responsible for shortening creation of Lego robot assembly instructions;
 
 ## 🛠️ Technologies and Tools
 Operating systems:  
