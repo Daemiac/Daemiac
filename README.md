@@ -1,6 +1,6 @@
 ## 👋 Hello world!
 
-Greetings! My name is Piotr and I'm a big enthusiast of reducing amount of dull and repetetive work through automation. Therefore my interests include robotics and development of software solutions which can be used to ease and organise human lives. My favourite weapon in a war against boredom and monotony is Python programming language. 
+Greetings! My name is Piotr and I'm a big enthusiast of reducing amount of dull and repetetive work through automation. Therefore my interests include robotics and development of software solutions which can be used to ease and organise human life. My favourite weapon in a war against boredom and monotony is Python programming language. 
 
 ## 💡 My projects
 **List of my projects in chronological order from most recent:**<br><br>
