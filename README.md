@@ -3,12 +3,10 @@
 Greetings! My name is Piotr and I'm a big enthusiast of reducing amount of dull and repetetive work through automation. Therefore my interests include robotics and development of software solutions which can be used to ease and organise human lives. My favourite weapon in a war against boredom and monotony is Python programming language. 
 
 ## 💡 My projects
-<h4>List of my projects in chronological order from most recent:</h4>
-🌔 [Reminder] - my own organiser app developed with use of PyQt5 library and SQLite database.
-<br><br>
-🌓 [Dreamwalker] - my Master's degree final project which included design, development and simulation of four legged walking robot.
-<br><br>
-🌒 [HTML Gallery Generator] - simple Python desktop app developed with Tkinter library responsible for shortening creation of Lego robot assembly instructions.
+**List of my projects in chronological order from most recent:**<br><br>
+🌔 [Reminder] - my own organiser app developed with use of pyQt5 library and SQLite database;<br>
+🌓 [Dreamwalker] - my Master's degree final project which included design, software development and simulation of four legged walking robot;<br>
+🌒 [HTML Gallery Generator] - simple Python desktop app developed with Tkinter library, responsible for shirtening creation of Lego robot assembly instructions;
 
 ## 🛠️ Technologies and Tools
 Operating systems:  
