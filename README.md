@@ -41,7 +41,10 @@ Tools:<br>
 
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Daemiac&count_private=true&show_icons=true?&theme=tokyonight&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+
 </p>
+
+<p align="center"><img alt = "profile visits count" src="https://profile-counter.glitch.me/{Daemiac}/count.svg"></p>
 
 [Reminder]:https://github.com/Daemiac/Reminder
 [Dreamwalker]:https://github.com/Daemiac/Dreamwalker
