@@ -10,32 +10,29 @@ Greetings! My name is Piotr and I'm a big enthusiast of reducing amount of dull 
 
 ## 🛠️ Technologies and Tools
 Operating systems:  
-![](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Programming languages:  
-![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
-
-Web:<br>
-![](https://img.shields.io/badge/-Django-informational?style=flat-square&logo=django&logoColor=white&color=092E20)
-![](https://img.shields.io/badge/-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7952B3)
+Languages:  
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Databases:<br>
-![](https://img.shields.io/badge/-SQLite-informational?style=flat-square&logo=sqlite&logoColor=white&color=003B57)
-![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Platforms:<br>
-![](https://img.shields.io/badge/-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979D)
-![](https://img.shields.io/badge/-ROS-informational?style=flat-square&logo=ros&logoColor=white&color=22314E)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 Tools:<br>
-![](https://img.shields.io/badge/-Git-informational?style=flat-square&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/-Pycharm-informational?style=flat-square&logo=pycharm&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-Atom-informational?style=flat-square&logo=atom&logoColor=white&color=66595C)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ---
 
